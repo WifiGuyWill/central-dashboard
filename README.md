@@ -7,16 +7,12 @@ This app showcases the basics of an Aruba Central custom dashboard using the Res
 This as an example of how to use the Aruba Central Rest API capabilities to build a custom dashboard for a customer.
 
 ## Before you Begin
-Install the dependencies
-
-Python 3.8
-
-Flask 2.0.1
+Verify you have Python installed (3.12 or greater)
 
 ## Steps to Configure the custom dashboard
 To configure the Flask web application, complete the following steps:
 
-Step 1: Install the dependencies
-Step 2: Copy the /central-custom-dashboard folder
+Step 1: Copy the /central-custom-dashboard folder
+Step 2: run pip install -r requirements.txt
 Step 3: Modify creds.py with API key
 Step 4: Execute the flask app (flask run)
