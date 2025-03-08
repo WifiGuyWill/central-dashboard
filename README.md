@@ -13,6 +13,9 @@ Verify you have Python installed (3.12 or greater)
 To configure the Flask web application, complete the following steps:
 
 Step 1: Copy the /central-custom-dashboard folder
+
 Step 2: run pip install -r requirements.txt
+
 Step 3: Modify creds.py with API key
+
 Step 4: Execute the flask app (flask run)
